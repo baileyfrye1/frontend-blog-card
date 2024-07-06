@@ -118,6 +118,7 @@ textarea:not([rows]) {
   box-shadow: var(--shadow-1);
   padding: 1.5rem;
   width: clamp(327px, 50vw, 384px);
+  border: 1px solid var(--black);
 }
 
 .card__img {
